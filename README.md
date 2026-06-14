@@ -70,10 +70,7 @@ I work not only on software but also on hardware development, and I am a student
 
 #### activity
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true"><br> 
-
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=python-programmer1512)
-
-
+<br>
 
 
 #### Contact 📫
