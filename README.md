@@ -71,7 +71,9 @@ I work not only on software but also on hardware development, and I am a student
 #### activity
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-programmer1512&layout=compact"><br><img src="https://github-readme-stats.vercel.app/api?username=python-programmer1512&show_icons=true"><br> 
 <br>
-
+<picture>
+  <img alt="codemaru card for python-programmer1512" src="https://codemaru.bnbong.com/api/card.svg?github=python-programmer1512&boj=joseph0528&leetcode=codemaru_demo" />
+</picture>
 
 #### Contact 📫
 
