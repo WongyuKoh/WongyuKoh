@@ -1,11 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=KWG07&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=KWG&fontSize=60" />
 
 
 
 ### [About KWG07]([https://github.com/python-programmer1512](https://python-programmer1512.github.io/KWG07.github.io/)) 👋
 (2023.01.27, joseph13ko15 -> KWG07)
+(2026.07.08, KWG07 -> KWG)
 
-Hello, My name is KWG07
+Hello, My name is KWG
 
 I am an AI developer, but I also develop web and mobile applications. 
 
