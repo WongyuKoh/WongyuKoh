@@ -59,7 +59,7 @@ A student developer on the path to a startup.
 
 | Status | Service | Period |
 |--------|---------|--------|
-| 🕒 Preparing | Real Autonomous Vehicle | TBD ~ |
+| 🕒 Preparing | Real Autonomous Vehicle | 2024.06 ~ 2026.02 |
 | 🚫 Stopped | UNHO MATHGAME | 2024 ~ 2025 |
 | 🚫 Stopped | Medicine Safe Dose Service | 2023 |
 
