@@ -72,7 +72,8 @@ I work not only on software but also on hardware development, and I am a student
 #### activity
 [![Wongyu Koh's GitHub stats](https://github-stats-extended.vercel.app/api?username=wongyukoh)](https://github.com/stats-organization/github-stats-extended)
 <br>
-[Wongyu Koh's Most Used Languages]([https://github-stats-extended.vercel.app/api?username=wongyukoh](https://github-stats-extended.vercel.app/api/top-langs?username=WongyuKoh&layout=donut-vertical&langs_count=7&theme=dark))
+[![Wongyu Koh's Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=WongyuKoh&layout=donut-vertical&langs_count=7&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+
 
 <br>
 <picture>
