@@ -70,7 +70,7 @@ I work not only on software but also on hardware development, and I am a student
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528)](https://solved.ac/joseph0528)
 
 #### activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WongyuKoh&layout=compact"><br><img src="https://github-readme-stats.vercel.app/api?username=WongyuKoh&show_icons=true"><br> 
+[![Wongyu Koh's GitHub stats](https://github-readme-stats.vercel.app/api?username=WongyuKoh)](https://github.com/WongyuKoh/github-readme-stats)
 <br>
 <picture>
   <img alt="codemaru card for WongyuKoh" src="https://codemaru.bnbong.com/api/card.svg?github=WongyuKoh&boj=joseph0528&leetcode=codemaru_demo" />
