@@ -78,7 +78,7 @@ A student developer on the path to a startup.
   <img alt="codemaru card for WongyuKoh" src="https://codemaru.bnbong.com/api/card.svg?github=WongyuKoh&boj=joseph0528&leetcode=codemaru_demo" />
   <br /><br />
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=WongyuKoh&layout=donut&langs_count=15&theme=dark" height="600" alt="Wongyu Koh's Most Used Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=WongyuKoh&layout=donut&langs_count=10&theme=dark" height="600" alt="Wongyu Koh's Most Used Languages" />
   </a>
 </div>
 
