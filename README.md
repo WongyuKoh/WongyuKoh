@@ -72,6 +72,9 @@ I work not only on software but also on hardware development, and I am a student
 #### activity
 [![Wongyu Koh's GitHub stats](https://github-stats-extended.vercel.app/api?username=wongyukoh)](https://github.com/stats-organization/github-stats-extended)
 <br>
+[Wongyu Koh's Most Used Languages]([https://github-stats-extended.vercel.app/api?username=wongyukoh](https://github-stats-extended.vercel.app/api/top-langs?username=WongyuKoh&layout=donut-vertical&langs_count=7&theme=dark))
+
+<br>
 <picture>
   <img alt="codemaru card for WongyuKoh" src="https://codemaru.bnbong.com/api/card.svg?github=WongyuKoh&boj=joseph0528&leetcode=codemaru_demo" />
 </picture>
