@@ -75,11 +75,11 @@ A student developer on the path to a startup.
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joseph0528" alt="Solved.ac Profile" />
   </a>
   <br /><br />
+  <img alt="codemaru card for WongyuKoh" src="https://codemaru.bnbong.com/api/card.svg?github=WongyuKoh&boj=joseph0528&leetcode=codemaru_demo" />
+  <br /><br />
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=WongyuKoh&layout=donut&langs_count=7&theme=dark" height="600" alt="Wongyu Koh's Most Used Languages" />
   </a>
-  <br /><br />
-  <img alt="codemaru card for WongyuKoh" src="https://codemaru.bnbong.com/api/card.svg?github=WongyuKoh&boj=joseph0528&leetcode=codemaru_demo" />
 </div>
 
 ---
